@@ -1,0 +1,30 @@
+{
+  "name": "learnbe",
+  "version": "1.0.0",
+  "description": "LTW backend from zero",
+  "keywords": [
+    "node",
+    "js",
+    "LTW",
+    "BE"
+  ],
+  "homepage": "https://github.com/VanLam05/nodejs_blog#readme",
+  "bugs": {
+    "url": "https://github.com/VanLam05/nodejs_blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanLam05/nodejs_blog.git"
+  },
+  "license": "ISC",
+  "author": "VanLam",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.2.1"
+  }
+}
